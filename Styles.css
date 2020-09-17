@@ -1,0 +1,11 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-color: #FFFFFF;
+	text-align: justify;
+	font-size: 100%;
+	font-family: 'Poppins', sans-serif
+}
+h1{
+  color: black;
+}
